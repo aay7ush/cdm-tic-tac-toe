@@ -1,0 +1,5 @@
+tabs: ['./client/src/App.jsx', './server/server.js']
+terminals: [
+	'cd client && bun install && bun run dev',
+	'cd server && bun install && bun run dev',
+]
