@@ -1,4 +1,4 @@
-tabs: ['./client/src/App.jsx', './server/server.js']
+tabs: ['./client/src/App.jsx', './client/src/Square.jsx', './server/server.js']
 terminals: [
 	'cd client && bun install && bun run dev',
 	'cd server && bun install && bun run dev',
